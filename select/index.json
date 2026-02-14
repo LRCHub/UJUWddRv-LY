@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オトナチック",
+  "base_artist": "ゲスの極み乙女。",
+  "createdAt": "2026-02-14T15:21:09.077078Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オトナチック",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_オトナチック_ゲスの極み乙女。.txt"
+    }
+  ]
+}
